@@ -1,0 +1,17 @@
+HERE ARE BOARDS YOU CAN INPUT INTO 'twiddle.py' TO SOLVE
+AND THE PROVIDED # OF STEPS TO THE BOARD'S SOLUTION
+
+DISCLAIMER: The higher # of moves a board has, the longer it will take the code to run...
+	However, boards with solutions of roughly 8 or 9 will still only take under a minute to solve...
+
+4 MOVES
+239654178
+185372649
+
+6 MOVES
+675381429
+361547289
+
+8 MOVES
+287416935
+964371285
